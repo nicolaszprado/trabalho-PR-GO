@@ -1,0 +1,9 @@
+nicolas|docs\test.txt
+prado|docs\test.txt
+marcos|docs\test.txt
+sixxyz|docs\termos.txt
+julio|docs\test.txt
+teruo|docs\test.txt
+japa|docs\test.txt
+pradoo|docs\test.txt
+professor|docs\subdir1\testes2.txt
