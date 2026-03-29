@@ -1,6 +1,6 @@
 # Índice de Busca
 
-Programa em Go que indexa arquivos `.txt` dentro de um diretório e permite buscar palavras, mostrando em qual diretório e arquivo cada termo foi encontrado. Usa goroutines para processar múltiplos arquivos em paralelo.
+Programa em Go que indexa arquivos `.txt` dentro de um diretório e permite buscar palavras, mostrando em qual diretório e arquivo cada termo foi encontrado. Usa goroutines para processar múltiplos arquivos em paralelo. (Escolhi go por ser uma linguagem com o goroutines e ser bem performatica, porém foi a primeira vevz utlizando)
 
 ## Requisitos
 
