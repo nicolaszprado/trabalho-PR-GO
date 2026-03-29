@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-// SearchTerm busca um termo no índice e retorna os arquivos onde foi encontrado
+
 func SearchTerm(term string) []string {
 	file, err := os.Open(indexFile)
 	if err != nil {
@@ -41,7 +41,7 @@ func SearchTerm(term string) []string {
 	return results
 }
 
-// InserirTermo adiciona o termo no arquivo docs/test.txt e no índice
+
 func InserirTermo(term string) {
 	term = strings.ToLower(term)
 
